@@ -45,7 +45,7 @@ If they are missing or you want to make sure they are as intended, select the `1
 https://user-images.githubusercontent.com/15692866/229252153-67c76e09-c812-4fa0-8500-0922c027fc06.mp4
 
 
-#### Debug (Not working as intended)
+#### Debug (Not working as intended, only returns after »ENTER«(newline) is hit)
 https://user-images.githubusercontent.com/15692866/229252179-fbc70ba5-3bdf-4e08-b18f-bdf5ee815be2.mp4
 
 
